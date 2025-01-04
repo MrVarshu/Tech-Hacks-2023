@@ -1,11 +1,13 @@
 #22-12-23
 
 # Tech-Hacks-2023
-# Team Name : ROLEX 
-# Team Members :
-Puppireddy Varshith
-Shashank Shetty
-Preetham N V
+Team Name : ROLEX  
+
+Team Members :
+
+Puppireddy Varshith, 
+Shashank Shetty, 
+Preetham N V, 
 Ganeshuni Sujith
 
 # Problem Statement :
